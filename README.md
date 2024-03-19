@@ -22,10 +22,8 @@ In the project directory, you can run:
 
 ## Links
 If you want to see the final product, in the project directory, you can run:
-- [Live 🔗] https://incredible-malasada-fd3e4a.netlify.app/
+- [Live 🔗] https://grid-web-panel.netlify.app/
 
-### Getting Started with Create React App
-This project was bootstrapped with [Create React App](https://incredible-malasada-fd3e4a.netlify.app/).
 
 
 ## My process
