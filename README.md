@@ -14,8 +14,12 @@ If you want to see the final product, in the project directory, you can run:
 - Semantic HTML5 markup
 - CSS Grid
 
+## Note - Keep in mind
+REMEMBER THAT IF YOUR LAYOUT IS 
 
-## Author
-- Yamil Silva
+DESKTOP FIRST: IN MEDIA QUERIES GO "max-width" ">"
 
+MOBILE FIRST: IN MEDIA QUERIES GO "min-width"  "<"
 
+## 🚀 About Me
+I'm a Junior full stack developer.
