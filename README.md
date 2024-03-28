@@ -2,7 +2,7 @@
 - feel free to use this as model, evem the css file has a reset, and media queries desktop first. 
 
 ## Screenshots
-![App Screenshot](screemshot/SCR-20240327-crwy.png )
+![App Screenshot](screenshot/SCR-20240328-mdng.png )
 
 ## Links
 If you want to see the final product, in the project directory, you can run:
